@@ -29,6 +29,22 @@ namespace TestApp17April_1
 				button.Text = string.Format ("{0} clicks!", count++);
 			};
 		}
+
+		public void TestMethod()
+		{
+			Console.WriteLine ("Hi this is test");
+		}
+
+		public void TestMethod1()
+		{
+			Console.WriteLine ("Hi this is test");
+		}
+
+		public void TestMethod2()
+		{
+			Console.WriteLine ("Hi this is test");
+		}
+	
 	}
 }
 
